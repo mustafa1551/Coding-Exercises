@@ -1,2 +1,2 @@
 # Coding-Exercises
-Coding exercises for phyton
+Coding exercises that I did for practising phyton
